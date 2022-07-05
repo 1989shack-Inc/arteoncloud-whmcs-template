@@ -14,4 +14,4 @@ This template use [MIT License](https://github.com/dajnox/astro-bot/blob/main/LI
 
 #### 🖼️ Other screenshots
 
-[Screenshots](https://github.com/dajnox/arteoncloud-whmcs-template/tree/main/screenshots)
+[Screenshots](https://github.com/dajnox/arteoncloud-whmcs-template/tree/master/screenshots)
